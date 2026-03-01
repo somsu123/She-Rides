@@ -80,11 +80,13 @@ SheRide is a women-only mobility and delivery network offering:
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- Tailwind CSS
-- Vanilla JavaScript
-- Fully Responsive Design
-- Frontend-only prototype (No backend)
+- **Framework**: [React 18](https://react.dev/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components**: [Radix UI](https://www.radix-ui.com/) (via shadcn/ui)
+- **Routing**: [React Router](https://reactrouter.com/)
+- **State/Data**: [React Query](https://tanstack.com/query/latest) & [Zod](https://zod.dev/)
 
 ---
 
