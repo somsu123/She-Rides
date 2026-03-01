@@ -88,17 +88,6 @@ SheRide is a women-only mobility and delivery network offering:
 - **Routing**: [React Router](https://reactrouter.com/)
 - **State/Data**: [React Query](https://tanstack.com/query/latest) & [Zod](https://zod.dev/)
 
----
-
-## 📂 Project Structure
-SheRide/
-│
-├── index.html
-├── style.css (if applicable)
-├── script.js
-└── assets/
-└── images/
-
 
 ---
 
