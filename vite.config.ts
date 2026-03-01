@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => ({
     hmr: {
       overlay: false,
     },
-    allowedHosts: ["she-rides.onrender.com"],
+    allowedHosts: ["https://she-rides-1.onrender.com/"],
   },
   plugins: [react()],
   resolve: {
